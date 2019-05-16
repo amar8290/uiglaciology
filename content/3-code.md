@@ -62,8 +62,8 @@ Output:
     3 d
     
     4 e
-    
   
+ 
   
 2. Managing data types
 - `list((data))`
