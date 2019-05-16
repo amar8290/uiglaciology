@@ -9,4 +9,18 @@ We generally use python.
 google is key for learning how to code.  Tim also recommends [scipy-lectures.org](https://scipy-lectures.org/) as a good consistent primer on a lot of fundamental coding tasks.
 
 
+# Helpful native Python functions
+1. Loop Functions
+- '/zip(list1, list2)/'
+- 'enumerate'
+2. Managing data types
+- 'list((data))'
+- 'np.array((data, dtype=int))'
+- 'np.array((data, dtype=np.float64))'
+
+# Helpful Python Modules
+1. os module
+- 'os.listdir(directory_path)'
+- 'os.path.join(path_stem, filename)'
+
 
