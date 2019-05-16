@@ -14,6 +14,7 @@ google is key for learning how to code.  Tim also recommends [scipy-lectures.org
 - `zip`
 
   zip function zips two lists of the same length together so that you can iterate through both at the same time. 
+  
   Example:
 
   `numbers = [1,2,3,4,5]`
@@ -24,15 +25,15 @@ google is key for learning how to code.  Tim also recommends [scipy-lectures.org
 
     `print(number, letter)`
     
-    `1 a
+    `1 a`
     
-    `2 b
+    `2 b`
     
-    `3 c
+    `3 c`
     
-    `4 d
+    `4 d`
     
-    `5 e
+    `5 e`
     
 - `zip` function is especially handy when plotting multiple subplots in one loop where you want to specify different axes labels, xticks, etc as you can zip these together and just iterate through once.
 
@@ -45,6 +46,7 @@ google is key for learning how to code.  Tim also recommends [scipy-lectures.org
   `for index, letter in enumerate(letters):`
   
     `print(index, letter)`
+    
     `0 a`
     
     `1 b`
@@ -55,8 +57,6 @@ google is key for learning how to code.  Tim also recommends [scipy-lectures.org
     
     `4 e`
     
-  
-  
   
   
 2. Managing data types
