@@ -12,14 +12,18 @@ google is key for learning how to code.  Tim also recommends [scipy-lectures.org
 # Helpful native Python functions
 1. Loop Functions: useful when using `for` loops
 - `zip`
+
 zip function zips two lists of the same length together so that you can iterate through both at the same time. 
 Example:
 
 `numbers = [1,2,3,4,5]`
+
 `letters = ['a','b','c','d','e']`
+
 `for number,letter in zip(numbers, letters):`
+
   `print(number, letter)`
-- This function is especially handy when plotting multiple subplots in one loop where you want to specify different axes labels, xticks, etc. 
+- `zip` function is especially handy when plotting multiple subplots in one loop where you want to specify different axes labels, xticks, etc as you can zip these together and just iterate through once.
 
 - `enumerate`
 2. Managing data types
