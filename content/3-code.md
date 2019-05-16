@@ -27,15 +27,15 @@ google is key for learning how to code.  Tim also recommends [scipy-lectures.org
     
 Output:
 
-    `1 a`
+    1 a
     
-    `2 b`
+    2 b
     
-    `3 c`
+    3 c
     
-    `4 d`
+    4 d
     
-    `5 e`
+    5 e
     
 - `zip` function is especially handy when plotting multiple subplots in one loop where you want to specify different axes labels, xticks, etc as you can zip these together and just iterate through once.
 
@@ -53,15 +53,15 @@ Output:
     
  Output:
     
-    `0 a`
+    0 a
     
-    `1 b`
+    1 b
     
-    `2 c`
+    2 c
     
-    `3 d`
+    3 d
     
-    `4 e`
+    4 e
     
   
   
