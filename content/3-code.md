@@ -25,7 +25,7 @@ google is key for learning how to code.  Tim also recommends [scipy-lectures.org
 
     `print(number, letter)`
     
-    `>>1 a`
+`>>``1 a`
     
     `2 b`
     
