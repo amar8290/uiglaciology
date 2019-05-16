@@ -10,17 +10,25 @@ google is key for learning how to code.  Tim also recommends [scipy-lectures.org
 
 
 # Helpful native Python functions
-1. Loop Functions
-- '/zip(list1, list2)/'
-- 'enumerate'
+1. Loop Functions: useful when using `for` loops
+- `zip(list1, list2)`
+zip function zips two lists of the same length together so that you can iterate through both at the same time. 
+Example:
+`numbers = [1,2,3,4,5]
+letters = ['a','b','c','d','e']
+for number,letter in zip(numbers, letters):
+  print(number, letter)`
+
+
+- `enumerate`
 2. Managing data types
-- 'list((data))'
-- 'np.array((data, dtype=int))'
-- 'np.array((data, dtype=np.float64))'
+- `list((data))`
+- `np.array((data, dtype=int))`
+- `np.array((data, dtype=np.float64))
 
 # Helpful Python Modules
 1. os module
-- 'os.listdir(directory_path)'
-- 'os.path.join(path_stem, filename)'
+- `os.listdir(directory_path)
+- `os.path.join(path_stem, filename)
 
 
