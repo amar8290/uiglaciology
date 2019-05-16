@@ -25,7 +25,7 @@ google is key for learning how to code.  Tim also recommends [scipy-lectures.org
 
     `print(number, letter)`
     
-    `1 a`
+    `>>1 a`
     
     `2 b`
     
@@ -38,7 +38,9 @@ google is key for learning how to code.  Tim also recommends [scipy-lectures.org
 - `zip` function is especially handy when plotting multiple subplots in one loop where you want to specify different axes labels, xticks, etc as you can zip these together and just iterate through once.
 
 - `enumerate`
-  The enumerate function is superbly useful as it returns both the index number of elements in a list and the element values themselves. 
+
+  The enumerate function is superbly useful as it returns both the index number of elements in a list and the element values themselves in one line. 
+  
   As an example:
   
   `letters = ['a','b','c','d','e']`
@@ -47,7 +49,7 @@ google is key for learning how to code.  Tim also recommends [scipy-lectures.org
   
     `print(index, letter)`
     
-    `0 a`
+    `>>0 a`
     
     `1 b`
     
